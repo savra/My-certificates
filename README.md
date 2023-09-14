@@ -1,7 +1,7 @@
-# My-certificates
+# My certificates
 Certificates I have received for completing various courses
 
-Course name | Course by | Certificate
-------------|----------------|-----|
-[**Build Responsive Real-World Websites with HTML and CSS**](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) | **Oracle** | [**PDF-file**](./pdf/Schmedtmann-HTML-CSS.pdf) | [**Udemy**](https://www.udemy.com/certificate/UC-a3716901-9789-44cf-a38b-83acf805d723/)
-[**Introduction To SQL**](https://hyperskill.org/tracks/31) | **Hyperskill** | [**PDF-file**](./pdf/Hyperskill-Introduction-To-SQL.pdf) | [**Hyperskill**](https://hyperskill.org/certificates/3be1776c-6767-4526-af27-47e41d74da23.pdf)
+Course name | Course by | Certificate                                       | Verify
+------------|----------------|---------------------------------------------------|----|
+[**Oracle PL/SQL Developer Certified Associate**](https://learn.oracle.com/ols/learning-path/become-a-oracle-plsql-developer-certified-associate/55627/55622) | **Oracle** | [**View certificate**](./certificates/OCAplsql.png) | [**Oracle**](https://www.credly.com/badges/0afdc464-1d4f-4208-b60a-ba355c51addf/public_url)
+[**Oracle Database SQL Certified Associate**](https://learn.oracle.com/ols/learning-path/become-a-oracle-sql-certified-associate/55319/55322) | **Oracle** | [**View certificate**](./certificates/ocasql.png) | [**Oracle**](https://www.credly.com/badges/0d4a4f3b-26e2-4c08-9750-0d6ca294b408/public_url)
