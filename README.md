@@ -13,4 +13,4 @@ Certificates I have received for completing various courses
 
 ## Notes
 
-_<a name="description"><sup>*</sup></a> - These courses were taken at a closed corporate university so there is no way for an outside user to take them or verify them_
+_<a name="description"><sup>*</sup></a> - These courses were taken at Sberbank of Russia's closed corporate university, so an external user cannot take or verify them_
