@@ -1,7 +1,7 @@
 # My certificates
 Certificates I have received for completing various courses
  
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera" height = 25> 
+<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera" height = 25 alt="coursera"> 
 
 | Course name                                                                                                                                                   | Course by  | Certificate                                                     | Verify                                                                                      |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------|
