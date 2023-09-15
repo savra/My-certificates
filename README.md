@@ -1,7 +1,5 @@
 # My certificates
 Certificates I have received for completing various courses
-
-<span></span>
  
 <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera" height = 25> 
 
